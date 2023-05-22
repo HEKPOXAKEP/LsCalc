@@ -1,0 +1,5 @@
+
+Digits BITMAP "digits.bmp"
+Letters BITMAP "letters.bmp"
+Dots BITMAP "Dots.bmp"
+CalcMode BITMAP "CalcMode.bmp"
